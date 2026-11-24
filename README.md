@@ -21,3 +21,12 @@ Type your notes and download them when needed.
 ## Running Locally
 
 Open `index.html` in a modern web browser.
+## Manual Testing Checklist
+
+- [ ] Type text and confirm the save status.
+- [ ] Refresh and verify that the note remains stored.
+- [ ] Export a TXT file and inspect its contents.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
